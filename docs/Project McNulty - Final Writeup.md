@@ -14,6 +14,10 @@ The AAC partners with several other local orginizations in the area to transfer 
 
 My main metrics for sucess with my model were precision and accuracy, and by achieving a precision of ~79% and an accuracy of ~75%, I believe I was successful. In the future, I would love to implement a flask app to further flesh out my original concept.
 
+Here is a link to my repo:
+
+https://github.com/robertpagano/metis_project_mcnulty_v2
+
 ## Tools and Packages Used
 
 | Tools            |
